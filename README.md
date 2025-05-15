@@ -1,1 +1,1 @@
-# Depression-Disorder-prediction
+This study successfully predicted depression disorder prevalence in mental health patients using four (4) supervised machine learning, multiple regression analysis models (linear regression, lasso regression, ridge regression, and random forest regression), comparing the performance of these multiple regression-based machine learning models using appropriate evaluation metrics, the metrics have consistently provide clear criteria indicating random forest having the best performance. 
